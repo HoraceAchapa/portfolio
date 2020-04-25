@@ -116,3 +116,6 @@ button {
     color: white;
     transform: rotateY(180deg);
   }
+.about{
+    text-align: center;
+}
