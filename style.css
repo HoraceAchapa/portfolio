@@ -118,6 +118,7 @@ button {
   }
 .about{
     text-align: center;
+    padding-top: -1px;
 }
 .Interest{
     text-align: center;
@@ -128,4 +129,7 @@ button {
 }
 li{
     list-style: none;
+}
+body{
+    background-color: pink;
 }
