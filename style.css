@@ -119,6 +119,7 @@ button {
 .about{
     text-align: center;
     padding-top: -1px;
+    margin-top: 5px;
 }
 .Interest{
     text-align: center;
@@ -133,3 +134,14 @@ li{
 body{
     background-color: pink;
 }
+.projects{
+    display:flex;
+    justify-content: space-around;
+    padding: 5%;
+  }
+  #pro{
+      text-align: center;
+  }
+  #footer{
+      text-align: center;
+  }
