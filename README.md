@@ -12,15 +12,21 @@ This is my personal website.it contains my personal details including profssion,
 
 ## Set up/installtion requirement
 
-Open terminal git clone
-
+* Open terminal git clone
+* cd portfolio
+* use code or atom respectively
+* code . on your vscode.
 ## Technology used
 
 * HTML 5 
 * CSS 3
 
-##Licence
+## livelink
 
-Licenced under the(MIT LICENCE)
+
+## Licence
+
+
+Licenced under the(MIT LICENCE){LICENCED}.
 
 
